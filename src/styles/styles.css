@@ -1,0 +1,8 @@
+/* importando o global */
+@import url('./global.css');
+
+body{
+    /* usando a variavel global no bg */
+    background-color: var(--variable-exemplo);
+}
+
