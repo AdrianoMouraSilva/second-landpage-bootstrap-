@@ -6,3 +6,11 @@ body{
     background-color: var(--variable-exemplo);
 }
 
+.hero{
+    margin-top:  100px;
+    background: url('../assets/images/fundo.jpg');
+    background-repeat: no-repeat;
+    background-position: centrer;
+    height: 100px;
+}
+
